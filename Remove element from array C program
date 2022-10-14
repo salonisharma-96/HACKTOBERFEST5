@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
- 
+
 
    printf("Enter %d elements\n", n);
 
