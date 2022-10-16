@@ -4,7 +4,7 @@ int main()
 int main()
 
 
-   printf("Enter %d elements\n", n);
+
 
    for (c = 0; c < n; c++)
       scanf("%d", &array[c]);
